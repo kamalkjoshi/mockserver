@@ -1,0 +1,6 @@
+{
+  "successful": false,
+  "code": "ERROR_AT_MOCK_SERVER",
+  "message": "Unsupported Service. Please check application.properties for service mappings.",
+  "protocol": "PROTOCOL_JSON"
+}

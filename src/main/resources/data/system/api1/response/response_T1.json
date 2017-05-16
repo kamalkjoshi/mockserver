@@ -1,0 +1,6 @@
+{
+  "successful": false,
+  "code": "INCORRECT_EMAIL",
+  "message": "Email provided is invalid",
+  "protocol": "PROTOCOL_JSON"
+}

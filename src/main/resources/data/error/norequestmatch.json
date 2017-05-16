@@ -1,0 +1,6 @@
+{
+  "successful": false,
+  "code": "NO_MATCHING_REQUEST_FOUND",
+  "message": "Please check stored request/response under data directory.",
+  "protocol": "PROTOCOL_JSON"
+}

@@ -1,0 +1,36 @@
+{
+	"code": "SUCCESS",
+	"customerInfo": {
+		"customerId": "abcedefg",
+		"firstName": "Sachin",
+		"lastName": "Kumar",
+		"mobile": "7777777777",
+		"email": "sachin.kumar@abc.com"       
+	},
+	"orders":	[
+		{
+			"orderCode": "123456789",
+			"orderStatus": "Completed",
+			"purchaseDate": "19 Jul, 2015",
+			"itemInfo":	{
+				"itemId": "XYZ123",
+				"itemName": "Apple Iphone",
+				"category": "Electronics",
+				"subCategory":"Mobile Phone",
+				"brand":"Apple"
+			}
+		},
+		{
+			"orderCode": "123456795",
+			"orderStatus": "In Transit",
+			"purchaseDate": "19 Jul, 2015", 
+			"itemInfo":	{
+				"itemId": "XYZ345",
+				"itemName": "Lee Jeans",
+				"category": "Fashion",
+				"subCategory":"Men",
+				"brand":"Lee"
+			} 
+		}
+	]
+}
